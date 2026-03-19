@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2a168a8-5a19-4193-a4fe-c2da06bd10e6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ai0319/variableTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ai0319/variableTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ai0319/variableTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ai0319/variableTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Database/db.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Database/db.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
